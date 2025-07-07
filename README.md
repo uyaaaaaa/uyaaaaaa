@@ -6,8 +6,6 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 
 ## Skills
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=uyaaaaaa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-
 **Languages and Frameworks**
 
 <p>
@@ -33,10 +31,10 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" style="vertical-align:down; margin:4px" alt="aws" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" style="vertical-align:down; margin:4px" alt="google cloud" />
-    <img src="https://github.com/uyaaaaaa/uyaaaaaa/img/looker-icon-svgrepo-com.svg" height="40" style="vertical-align:down; margin:4px" alt="google cloud" />
+    <img src="https://github.com/uyaaaaaa/uyaaaaaa/tree/main/img/looker-icon-svgrepo-com.svg" height="40" style="vertical-align:down; margin:4px" alt="google cloud" />
 </p>
 
-**Favorite**
+**Tools**
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="40" style="vertical-align:down; margin:4px" alt="vim" />
@@ -52,4 +50,6 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 </p>
 
 **Favorite**: lazygit, fzf, ghostty, vimium, Claude Code
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=uyaaaaaa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
