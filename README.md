@@ -1,6 +1,6 @@
 # Hello, I'm uyaaaaaa!👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Light Vimmer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Light+Vimmer" />
 
 Welcome to my GitHub profile! Here are some of my projects and interests.
 
