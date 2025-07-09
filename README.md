@@ -58,8 +58,8 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uyaaaaaa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uyaaaaaa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uyaaaaaa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uyaaaaaa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uyaaaaaa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uyaaaaaa&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uyaaaaaa&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uyaaaaaa&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uyaaaaaa&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uyaaaaaa&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uyaaaaaa&theme=zenburn&utcOffset=9)
