@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here are some of my projects and interests.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer;Vim+Beginner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Backend+Developer;Vim+Beginner" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uyaaaaaa&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uyaaaaaa&theme=zenburn)
